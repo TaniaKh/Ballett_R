@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ballett_studio_project_one</string>
+    <string name="web">www.ballettstudioradu.de</string>
+    <string name="city">85622 Feldkirchen</string>
+    <string name="street">Oberndorferstr. 1</string>
+    <string name="tel">089-90108660</string>
+</resources>
